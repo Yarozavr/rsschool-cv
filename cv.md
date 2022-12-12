@@ -9,7 +9,7 @@
 
 
 Phone: +79175632345
-E-mail: yaroslav.doronin@gmail.com
+E-mail: yaroslav.doronin@yandex.ru
 nickname on the rs school discord server: Yaroslav(@yarozavr)
 
 ---
@@ -22,7 +22,8 @@ Graduated from college with a degree in mechanical engineering. In his free time
 **Skills and Proficiency:
 
 
-Базовые HTML5, CSS3
+Basic HTML5, CSS3
+VS Code
 
 ---
 **Code example:
