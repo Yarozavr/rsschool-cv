@@ -23,6 +23,8 @@ Graduated from college with a degree in mechanical engineering. In his free time
 
 
 Basic HTML5, CSS3
+
+
 VS Code
 
 ---
